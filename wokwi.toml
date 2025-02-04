@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/tempori_one_shot.uf2'
+elf = 'tempori_one_shot.elf'
